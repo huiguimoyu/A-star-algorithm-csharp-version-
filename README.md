@@ -1,4 +1,4 @@
-A star algorithm implement by c sharp.
+<br />A star algorithm implement by c#.<br>
 <br />Note:<br>
 <br />1.This program is completed under the vs2013.<br>
 <br />2.you need to put the map40X10.txt in the Debug folder. <br>
